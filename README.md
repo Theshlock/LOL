@@ -1,3 +1,4 @@
+# Hello World!
 # React JS Startup and small business website template
 
 ### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
