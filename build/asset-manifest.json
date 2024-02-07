@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lol/static/css/main.ff478358.css",
+    "main.js": "/lol/static/js/main.3681437f.js",
+    "static/media/consultation.svg": "/lol/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
+    "static/media/web-dev.svg": "/lol/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
+    "static/media/hosting.svg": "/lol/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
+    "static/media/app.svg": "/lol/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
+    "static/media/kws.png": "/lol/static/media/kws.877da8110793af2c3d27.png",
+    "static/media/Web-developer.svg": "/lol/static/media/Web-developer.6c7276fff94ccaae45617195f0ef27ae.svg",
+    "static/media/footer.svg": "/lol/static/media/footer.70b54bbe52a797ce69c1.svg",
+    "static/media/web.svg": "/lol/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
+    "index.html": "/lol/index.html",
+    "static/media/hero-bg.svg": "/lol/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.ff478358.css.map": "/lol/static/css/main.ff478358.css.map",
+    "main.3681437f.js.map": "/lol/static/js/main.3681437f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff478358.css",
+    "static/js/main.3681437f.js"
+  ]
+}
